@@ -21,8 +21,12 @@ shaped by time.
 
 ## 🖼️ Additional Studies
 
-### **Façade Study**
-*Image coming soon*
+### **Façade Study — Church Tower**
+A study of the abbey’s iconic tower, where vertical stonework rises with quiet authority
+against the Saintonge sky.
+
+![Church Tower](exterior-sketches/Abbaye%20Aux%20Dame%20copy.jpg)
+
 
 ### **Cloister Perspective**
 *Image coming soon*
